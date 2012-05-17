@@ -7,6 +7,7 @@ my %config = (
     VERSION_FROM    => 'lib/DDLock/Server.pm',
     AUTHOR          => 'Brad Fitzpatrick <brad@danga.com>',
     ABSTRACT_FROM   => 'lib/DDLock/Server.pm',
+    EXE_FILES       => [ 'ddlockd' ],
     PREREQ_PM       => {
         base        => 0,
         constant    => 0,

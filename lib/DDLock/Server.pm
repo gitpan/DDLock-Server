@@ -1,7 +1,7 @@
 package DDLock::Server;
 
 use vars qw($VERSION);
-$VERSION = '0.50';
+$VERSION = '0.51';
 
 use strict;
 use warnings;
